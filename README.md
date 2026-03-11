@@ -8,7 +8,7 @@
 
 MARS addresses **Modality Convergence Imbalance** in MLLM fine-tuning. By leveraging **Dual Scaling Laws** that capture the relationship between dataset size, convergence dynamics, and model capacity, MARS analytically derives the optimal rank ratio between the visual encoder and the LLM backbone.
 
-* Paper: https://minkyoungcho.github.io/mars/
+* Paper: https://arxiv.org/pdf/2603.00720
 * Webpage: https://minkyoungcho.github.io/mars/
 
 
